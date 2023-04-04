@@ -3,8 +3,8 @@ import 'package:prakerin/table_global.dart';
 import 'package:prakerin/table_indo.dart';
 
 import './email.dart' as email;
-// import './music.dart' as music;
-// import './shopping.dart' as shopping;
+import './music.dart' as music;
+import './shopping.dart' as shopping;
 import './telepon.dart' as telepon;
 
 void main() {
